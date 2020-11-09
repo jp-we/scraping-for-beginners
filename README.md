@@ -12,7 +12,7 @@ What to do:
 1. Run the file
 
 2. Use the class bond:
-   e.g. type in the command window:  	
+   e.g. type in the command window:  
    ETF1=bond()  
    ETF1.search('A1JX52')
 	
